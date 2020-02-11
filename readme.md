@@ -2,6 +2,8 @@
 
 My site, davidsottimano.com was recently hacked. I noticed on Feb 10th 2020 although it could have been a few days earlier.
 
+This repo contains a copy of the directory and a dump of the sql db.
+
 ## Details of the hack
 
 By going to the homepage using Googlebot user-agent, you would be shown a different version of the homepage
@@ -16,4 +18,6 @@ in my account which I quickly deleted.
 
 ## Fixing steps
 
-	- 
+	- Reinstall wordpress
+	- Diff between WP core and my directory, removed all files that were different
+	- Downloaded DB and checked for Japanese characters (there were none)
