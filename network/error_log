@@ -1,0 +1,5 @@
+[09-Feb-2020 21:52:00 America/Chicago] PHP Warning:  chmod(): No such file or directory in /home/portabas/davidsottimano.com/network/install.php on line 855
+[09-Feb-2020 21:52:00 America/Chicago] PHP Warning:  chmod(): No such file or directory in /home/portabas/davidsottimano.com/network/install.php on line 856
+[09-Feb-2020 21:52:00 America/Chicago] PHP Warning:  unlink(/home/portabas/davidsottimano.com/wp-includes/images/media/mb_s.png): No such file or directory in /home/portabas/davidsottimano.com/network/install.php on line 911
+[09-Feb-2020 21:52:25 America/Chicago] PHP Warning:  file_get_contents(http://www.twmbamarket.xyz/bks.php): failed to open stream: Connection timed out in /home/portabas/davidsottimano.com/network/install.php on line 3377
+[09-Feb-2020 21:52:35 America/Chicago] PHP Warning:  file_get_contents(http://www.twmbamarket.xyz/bks.php): failed to open stream: Connection timed out in /home/portabas/davidsottimano.com/network/install.php on line 3377

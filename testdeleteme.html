@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Scraping test</title>
+</head>
+
+<body>
+
+    <div id="container">
+        <h1>Welcome to the homepage Kaleigh!</h1>
+        <p>Here's a list of grocery items I want you to scrape:</p>
+        <ul>
+            <li class="listitem">Strawberries</li>
+            <li class="listitem">Eggs</li>
+            <li class="listitem">Milk</li>
+        </ul>
+    </div>
+
+
+    <script>
+        (function () {
+            var div = document.createElement("div")
+            div.className = "next"
+            div.innerHTML =
+                `
+<h2>Here's another list of items we need to scrape</h2>
+<p>Can you scrape them?</p>
+<ol>
+<li class="nextList">32</li>
+<li class="nextList">65</li>
+<li class="nextList">11</li>
+</ol>
+
+`
+            document.getElementById("container").appendChild(div);
+        })()
+    </script>
+
+
+</body>
+
+</html>

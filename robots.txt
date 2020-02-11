@@ -1,0 +1,4 @@
+User-agent: * 
+Disallow: /testdeleteme.html
+Disallow: /testcase.js
+Crawl-Delay: 20

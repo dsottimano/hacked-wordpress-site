@@ -1,0 +1,248 @@
+v1.1.11 (Apr 08, 2017)
+-----------------------------
+- Include Support tab in Theme Options Panel
+- Fixed wrong background field constructor args in the Options Panel
+- Load typography scripts only on theme options page
+
+Files updated:
+- style.css
+- functions.php
+- theme-options.php
+- options/support.php
+- options/options.php 
+- options/css/options.css
+- options/js/clipboard.min.js
+- options/js/help.js
+- options/fields/background/field_background.php 
+- options/fields/group/field_group.php 
+- options/google-typography/google-typography.php 
+
+v1.1.10 (Mar 22, 2017)
+-----------------------------
+- Improved localization support
+
+Files updated:
+- functions.php
+- lang/mythemeshop.pot
+- style.css
+
+v1.1.9 (Jan 20, 2017)
+-----------------------------
+- One click demo importer improvements
+
+Files updated:
+- style.css
+- functions.php
+- options/demo-importer/
+
+
+v1.1.8 (Jan 14, 2017)
+-----------------------------
+- One click demo importer improvements
+
+Files updated:
+- style.css
+- functions.php
+- options/demo-importer/
+
+
+v1.1.7 (Jan 14, 2017)
+-----------------------------
+- Fixed incorrect comment count
+- Fixed widget titles not styled when using a custom sidebar
+
+Files updated:
+- functions.php
+- style.css
+
+v1.1.6 (Dec 29, 2016)
+-----------------------------
+- Fixed rare twitteroauth error
+
+Files updated:
+- style.css
+- functions.php
+- functions/twitteroauth.php
+- functions/widget-tweets.php
+- home/section-twitter.php
+
+
+v1.1.5 (Dec 16, 2016)
+-----------------------------
+- Fixed demo importer issue on some servers
+
+Files updated:
+- style.css
+- functions.php
+- options/demo-importer/importer/radium-importer.php
+
+
+v1.1.4 (Oct 22, 2016)
+-----------------------------
+- One click demo importer improvements
+- Install Plugins page improvements
+
+Files updated:
+- style.css
+- functions.php
+- theme-presets.php
+- options/
+- lang/
+- functions/plugin-activation.php
+
+
+v1.1.3 (Oct 11, 2016)
+-----------------------------
+- Fixed error when using latest WP Mega Menu plugin
+
+Files updated:
+- style.css
+- functions.php
+
+
+v1.1.2 (Jul 1, 2016)
+-----------------------------
+- Added Google Maps API key field in Theme Options - now required by Google
+
+Files updated:
+- style.css
+- functions.php
+- footer.php
+- theme-options.php
+
+
+v1.1.1 (May 27, 2016)
+-----------------------------
+- Updated Theme Options image select field
+
+Files updated:
+- style.css
+- options/fields/upload/field_upload.php
+- options/fields/upload/field_upload.js
+
+
+v1.1.0 (May 18, 2016)
+-----------------------------
+- Added one click demo importer
+
+Files updated:
+- style.css
+- functions.php
+- theme-presets.php
+- options/options.php
+- options/js/options.js
+- options/css/options.css
+
+
+v1.0.9 (Apr 14, 2016)
+-----------------------------
+- Fixed JS compatibility with WordPress 4.5
+
+Files updated:
+- style.css
+- js/ajax.js
+- js/customscript.js
+
+
+v1.0.8 (Mar 18, 2016)
+-----------------------------
+- Updated code on Recommended plugins page
+
+Files updated:
+- style.css
+- functions/plugin-activation.php
+- css/addons.css
+
+
+v1.0.7 (Feb 8th, 2016)
+-----------------------------
+- Added recommended plugins page
+
+Files changed:
+- style.css
+- functions/plugin-activation.php
+- css/addons.css
+- js/addons.js
+
+
+v1.0.6 (Sep 28, 2015)
+-----------------------------
+- Changed widget constructors to PHP 5 style
+- Fixed twitter widget PHP notice
+- Fixed errors on twitter home section
+- Improved mobile menu
+
+Files updated:
+- functions.php
+- style.css
+- functions/widget-ad125.php
+- functions/widget-ad300.php
+- functions/widget-fblikebox.php
+- functions/widget-social.php
+- functions/widget-tweets.php
+- css/responsive.css
+- js/customscript.js
+
+
+v1.0.5 (May 14th, 2015)
+-----------------------------
+- Added option for fixing JetPack galleries
+
+Files updated:
+- functions.php
+- style.css
+
+
+v1.0.4 (May 1st, 2015)
+---------------------------------------------------
+- Fixed pagination issue
+- Team and Services Carousel issues fixed
+- Removed Carousel if services and team items less than 3
+- Floating Social Buttons issues fixed
+- fixed client slider loading issues in mobile
+- Team instagram url fixed.
+
+Files updated:
+- page.php
+- page-blog.php
+- home/section-clients.php
+- home/section-services.php
+- home/section-team.php
+- functions.php
+- style.css
+- responsive.css
+
+
+v1.0.3 (Oct 21, 2014)
+-----------------------------
+- Fixed Mega Menu link issue
+- Fixed Ajax search issue
+
+Files updated:
+ - functions.php
+- style.css
+
+
+v1.0.2 (Oct 21, 2014)
+-----------------------------
+- Fixed Related posts links issue.
+- Fixed Floating social buttons issue.
+- Fixed Text formatting issue in full width posts.
+- Fixed rating issue in single posts.
+
+Files updated:
+- functions/theme-actions.php
+- style.css
+
+
+v1.0.1 (Oct 21, 2014)
+-----------------------------
+- Fixed CF Post Formats plugin installation issue.
+
+Files updated:
+- style.css
+
+
+v1.0 (Oct 20, 2014)
+-----------------------------
+- Theme Released

@@ -1,0 +1,572 @@
+[PHP ERR][WARN] MSG:filter_var_array() expects parameter 1 to be array, null given [CODE:2|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:66]
+[PHP ERR][NOTICE] MSG:Undefined property: stdClass::$failures [CODE:8|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:101]
+********************************************************************************
+* DUPLICATOR-PRO: Install-Log
+* STEP-1 START @ 06:21:08
+* VERSION: 3.8.3.3
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+PACKAGE INFO________ CURRENT SERVER                         |ORIGINAL SERVER
+PHP VERSION_________: 7.0.33                                |7.0.33
+OS__________________: Linux                                 |Linux
+CREATED_____________: 2019-05-30 04:12:20
+WP VERSION__________: 5.1.1
+DUP VERSION_________: 3.8.3.3
+DB__________________: 5.6.23
+DB TABLES___________: 28
+DB ROWS_____________: 4681
+DB FILE SIZE________: 7208960
+********************************************************************************
+SERVER INFO
+PHP_________________: 7.0.33 | SAPI: cgi-fcgi
+PHP MEMORY__________: 4294967296 | SUHOSIN: disabled
+SERVER______________: Apache/2.4.39 (cPanel) OpenSSL/1.0.2r mod_bwlimited/1.4 Phusion_Passenger/5.3.7
+DOC ROOT____________: "/home/portabas/davidsottimano.com"
+DOC ROOT 755________: true
+LOG FILE 644________: true
+REQUEST URL_________: "http://davidsottimano.com/dup-installer/main.installer.php"
+********************************************************************************
+USER INPUTS
+ARCHIVE ENGINE______: "ziparchivechunking"
+[PHP ERR][NOTICE] MSG:Undefined index: clientside_kickoff [CODE:8|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:490]
+CLIENT KICKOFF______: NULL
+SET DIR PERMS_______: true
+DIR PERMS VALUE_____: 755
+SET FILE PERMS______: true
+FILE PERMS VALUE____: 644
+SAFE MODE___________: "0"
+LOGGING_____________: "1"
+RETAIN CONFIG_______: false
+FILE TIME___________: "current"
+[PHP ERR][NOTICE] MSG:Undefined index: remove-redundant [CODE:8|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:499]
+REMOVE RENDUNDANT___: NULL
+********************************************************************************
+
+
+--------------------------------------
+ARCHIVE SETUP
+--------------------------------------
+NAME________________: "20190530_davidsottimano_715a3dd6854407171270_20190530041220_archive.zip"
+SIZE________________: 185.69MB
+
+>>> Starting ZipArchive Chunking Unzip
+archive offset 0
+Expected total archive extract time: 47.50242018097
+Total extraction elapsed time until now: 47.50242018097
+[PHP ERR][WARN] MSG:filter_var_array() expects parameter 1 to be array, null given [CODE:2|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:66]
+[PHP ERR][NOTICE] MSG:Undefined property: stdClass::$failures [CODE:8|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:101]
+archive offset 4039
+Expected total archive extract time: 41.593550997376
+Total extraction elapsed time until now: 41.593550997376
+[PHP ERR][WARN] MSG:filter_var_array() expects parameter 1 to be array, null given [CODE:2|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:66]
+[PHP ERR][NOTICE] MSG:Undefined property: stdClass::$failures [CODE:8|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:101]
+archive offset 7319
+Expected total archive extract time: 36.755997128164
+Total extraction elapsed time until now: 36.755997128164
+[PHP ERR][WARN] MSG:filter_var_array() expects parameter 1 to be array, null given [CODE:2|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:66]
+[PHP ERR][NOTICE] MSG:Undefined property: stdClass::$failures [CODE:8|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:101]
+archive offset 9452
+Expected total archive extract time: 35.744512298319
+Total extraction elapsed time until now: 35.744512298319
+[PHP ERR][WARN] MSG:filter_var_array() expects parameter 1 to be array, null given [CODE:2|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:66]
+[PHP ERR][NOTICE] MSG:Undefined property: stdClass::$failures [CODE:8|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:101]
+archive offset 11935
+Expected total archive extract time: 35.45366528118
+Total extraction elapsed time until now: 35.45366528118
+[PHP ERR][WARN] MSG:filter_var_array() expects parameter 1 to be array, null given [CODE:2|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:66]
+[PHP ERR][NOTICE] MSG:Undefined property: stdClass::$failures [CODE:8|FILE:/home/portabas/davidsottimano.com/dup-installer/ctrls/ctrl.s1.extraction.php|LINE:101]
+archive offset 14822
+Archive just got done processing last file in list of 16788
+Expected total archive extract time: 34.881169619677
+Total extraction elapsed time until now: 34.881169619677
+Resetting permissions
+
+WEB SERVER CONFIGURATION FILE STATUS:
+- .htaccess file was not reset or backed up.
+- .user.ini file was not reset or backed up.
+- web.config file was not reset or backed up.
+
+STEP-1 COMPLETE @ 06:22:13 - RUNTIME: 65.4831 sec.
+
+
+
+********************************************************************************
+* DUPLICATOR PRO INSTALL-LOG
+* STEP-2 START @ 06:23:17
+* NOTICE: Do NOT post to public sites or forums!!
+********************************************************************************
+USER INPUTS
+VIEW MODE___________: "basic"
+DB ACTION___________: "empty"
+DB HOST_____________: "**OBSCURED**"
+DB NAME_____________: "**OBSCURED**"
+DB PASS_____________: "**OBSCURED**"
+DB PORT_____________: "**OBSCURED**"
+NON-BREAKING SPACES_: false
+MYSQL MODE__________: "DEFAULT"
+MYSQL MODE OPTS_____: ""
+CHARSET_____________: "utf8"
+COLLATE_____________: "utf8_general_ci"
+COLLATE FB__________: false
+CUNKING_____________: false
+VIEW CREATION_______: true
+STORED PROCEDURE____: true
+********************************************************************************
+
+--------------------------------------
+DATABASE-ENVIRONMENT
+--------------------------------------
+MYSQL VERSION:	This Server: 5.6.43 -- Build Server: 5.6.23
+FILE SIZE:	dup-database__715a3dd-30041220.sql (3.46MB) - installer-data.sql (0B)
+TIMEOUT:	5000
+MAXPACK:	268435456
+SQLMODE-GLOBAL:	NOT_SET
+SQLMODE-SESSION:NO_AUTO_VALUE_ON_ZERO
+NEW SQL FILE:	[/home/portabas/davidsottimano.com/dup-installer/dup-installer-data__715a3dd-30041220.sql]
+COLLATE FB:	Off
+DB CHUNKING:	disabled
+DB VIEWS:	enabled
+DB PROCEDURES:	enabled
+--------------------------------------
+DATABASE RESULTS
+--------------------------------------
+Starting Cleanup Routine...
+Cleanup Routine Complete
+ERRORS FOUND:	0
+DROPPED TABLES:	0
+RENAMED TABLES:	0
+QUERIES RAN:	58
+
+TABLES ROWS
+
+TABLE "wpbd_addonlibrary_addons"________________________[ROWS:   695]
+TABLE "wpbd_addonlibrary_categories"____________________[ROWS:    41]
+TABLE "wpbd_commentmeta"________________________________[ROWS:     0]
+TABLE "wpbd_comments"___________________________________[ROWS:     0]
+TABLE "wpbd_duplicator_pro_entities"____________________[ROWS:     5]
+TABLE "wpbd_duplicator_pro_packages"____________________[ROWS:     0]
+TABLE "wpbd_ewwwio_images"______________________________[ROWS:   405]
+TABLE "wpbd_links"______________________________________[ROWS:     0]
+TABLE "wpbd_ngg_album"__________________________________[ROWS:     0]
+TABLE "wpbd_ngg_gallery"________________________________[ROWS:     1]
+TABLE "wpbd_ngg_pictures"_______________________________[ROWS:     4]
+TABLE "wpbd_options"____________________________________[ROWS:   398]
+TABLE "wpbd_postmeta"___________________________________[ROWS:  2871]
+TABLE "wpbd_posts"______________________________________[ROWS:   183]
+TABLE "wpbd_smush_dir_images"___________________________[ROWS:     0]
+TABLE "wpbd_snippets"___________________________________[ROWS:     0]
+TABLE "wpbd_term_relationships"_________________________[ROWS:    99]
+TABLE "wpbd_term_taxonomy"______________________________[ROWS:    43]
+TABLE "wpbd_termmeta"___________________________________[ROWS:     0]
+TABLE "wpbd_terms"______________________________________[ROWS:    43]
+TABLE "wpbd_usermeta"___________________________________[ROWS:    44]
+TABLE "wpbd_users"______________________________________[ROWS:     1]
+TABLE "wpbd_wpgdprc_access_requests"____________________[ROWS:     0]
+TABLE "wpbd_wpgdprc_consents"___________________________[ROWS:     0]
+TABLE "wpbd_wpgdprc_delete_requests"____________________[ROWS:     0]
+TABLE "wpbd_wpgdprc_log"________________________________[ROWS:     0]
+TABLE "wpbd_yoast_seo_links"____________________________[ROWS:   118]
+TABLE "wpbd_yoast_seo_meta"_____________________________[ROWS:   127]
+
+DATABASE CACHE/TRANSITIENT [ROWS:    33]
+
+INSERT DATA RUNTIME: 0.6655 sec.
+STEP-2 COMPLETE @ 06:23:18 - RUNTIME: 0.6760 sec.
+
+====================================
+SET SEARCH AND REPLACE LIST
+====================================
+
+
+********************************************************************************
+DUPLICATOR PRO INSTALL-LOG
+STEP-3 START @ 06:23:24
+NOTICE: Do NOT post to public sites or forums
+********************************************************************************
+CHARSET SERVER:	"utf8"
+CHARSET CLIENT:	"utf8"
+********************************************************************************
+OPTIONS:
+blogname______________: "David Sottimano"
+postguid______________: false
+fullsearch____________: false
+replace_mode__________: "legacy"
+path_old______________: "/home/davidsot/public_html/"
+path_new______________: "/home/portabas/davidsottimano.com/"
+siteurl_______________: "http://davidsottimano.com"
+url_old_______________: "https://www.davidsottimano.com"
+url_new_______________: "http://davidsottimano.com"
+cross_search__________: false
+subsite_id____________: -1
+remove_redundant______: false
+replaceMail___________: false
+dbhost________________: "localhost"
+dbuser________________: "portabas_dave"
+dbname________________: "portabas_davidsottimano"
+dbcharset_____________: "utf8"
+dbcollate_____________: "utf8_general_ci"
+wp_username___________: ""
+wp_mail_______________: ""
+wp_nickname___________: ""
+wp_first_name_________: ""
+wp_last_name__________: ""
+ssl_admin_____________: false
+auth_keys_and_salts___: false
+cache_wp______________: true
+cache_path____________: false
+wp_debug______________: false
+wp_debug_log__________: false
+wp_debug_display______: false
+script_debug__________: false
+savequeries___________: false
+wp_memory_limit_______: ""
+wp_max_memory_limit___: ""
+disallow_file_edit____: false
+cookie_domain_________: ""
+autosave_interval_____: 0
+wp_auto_update_core___: ""
+wp_post_revisions_____: "remove"
+empty_schedule_storage: true
+exe_safe_mode_________: false
+retain_config_________: false
+mode_chunking_________: 1
+action_mu_mode________: -1
+********************************************************************************
+
+
+====================================
+RUN SEARCH AND REPLACE
+====================================
+
+EVALUATE TABLE: "wpbd_addonlibrary_addons"________________________[ROWS:   695][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_addonlibrary_categories"____________________[ROWS:    41][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_commentmeta"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpbd_comments"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpbd_duplicator_pro_entities"____________________[ROWS:     5][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_duplicator_pro_packages"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpbd_ewwwio_images"______________________________[ROWS:   405][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_links"______________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpbd_ngg_album"__________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpbd_ngg_gallery"________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_ngg_pictures"_______________________________[ROWS:     4][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_options"____________________________________[ROWS:   398][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_postmeta"___________________________________[ROWS:  2871][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_posts"______________________________________[ROWS:   183][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_smush_dir_images"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpbd_snippets"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpbd_term_relationships"_________________________[ROWS:    99][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_term_taxonomy"______________________________[ROWS:    43][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_termmeta"___________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpbd_terms"______________________________________[ROWS:    43][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_usermeta"___________________________________[ROWS:    44][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_users"______________________________________[ROWS:     1][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_wpgdprc_access_requests"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpbd_wpgdprc_consents"___________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpbd_wpgdprc_delete_requests"____________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpbd_wpgdprc_log"________________________________[ROWS:     0][PG:   0][SCAN:no columns  ]
+
+EVALUATE TABLE: "wpbd_yoast_seo_links"____________________________[ROWS:   118][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+
+EVALUATE TABLE: "wpbd_yoast_seo_meta"_____________________________[ROWS:   127][PG:   1][SCAN:text columns]
+	SEARCH  1:"/home/davidsot/public_html/" =====================> "/home/portabas/davidsottimano.com/"
+	SEARCH  2:"\/home\/davidsot\/public_html\/" =================> "\/home\/portabas\/davidsottimano.com\/"
+	SEARCH  3:"%2Fhome%2Fdavidsot%2Fpublic_html%2F" =============> "%2Fhome%2Fportabas%2Fdavidsottimano.com%2F"
+	SEARCH  4:"\home\davidsot\public_html" ======================> "/home/portabas/davidsottimano.com"
+	SEARCH  5:"\\home\\davidsot\\public_html" ===================> "\/home\/portabas\/davidsottimano.com"
+	SEARCH  6:"%5Chome%5Cdavidsot%5Cpublic_html" ================> "%2Fhome%2Fportabas%2Fdavidsottimano.com"
+	SEARCH  7:"//www.davidsottimano.com" ========================> "//davidsottimano.com"
+	SEARCH  8:"\/\/www.davidsottimano.com" ======================> "\/\/davidsottimano.com"
+	SEARCH  9:"%2F%2Fwww.davidsottimano.com" ====================> "%2F%2Fdavidsottimano.com"
+	SEARCH 10:"https://davidsottimano.com" ======================> "http://davidsottimano.com"
+	SEARCH 11:"https:\/\/davidsottimano.com" ====================> "http:\/\/davidsottimano.com"
+	SEARCH 12:"https%3A%2F%2Fdavidsottimano.com" ================> "http%3A%2F%2Fdavidsottimano.com"
+--------------------------------------
+SCANNED:	Tables:28 	|	 Rows:5078 	|	 Cells:35338 
+UPDATED:	Tables:7 	|	 Rows:618 	|	 Cells:634 
+ERRORS:		0 
+RUNTIME:	0.300700 sec
+
+====================================
+REMOVE MAINTENANCE MODE
+====================================
+
+====================================
+REMOVE LICENSE KEY
+====================================
+
+====================================
+CREATE NEW ADMIN USER
+====================================
+
+====================================
+CONFIGURATION FILE UPDATES
+====================================
+	UPDATE DB_NAME ""portabas_davidsottimano""
+	UPDATE DB_USER ""portabas_dave""
+	UPDATE DB_PASSWORD "** OBSCURED **"
+	UPDATE DB_HOST ""localhost""
+	UPDATE WP_CACHE true
+	REMOVE WPCACHEHOME
+	UPDATE WP_DEBUG false
+	REMOVE WP_MEMORY_LIMIT
+	REMOVE WP_MAX_MEMORY_LIMIT
+	REMOVE DISALLOW_FILE_EDIT
+	UPDATE WP_AUTO_UPDATE_CORE ""
+	
+UPDATED WP-CONFIG ARK FILE: - 'dup-wp-config-arc__[HASH].txt'
+
+====================================
+HTACCESS UPDATE
+====================================
+
+WEB SERVER CONFIGURATION FILE UPDATED:
+- Preparing .htaccess file with multisite subdirectory setup.
+- Successfully updated the .htaccess file setting.
+
+====================================
+GENERAL UPDATES & CLEANUP
+====================================
+- Removed '0' schedule storage items
+
+====================================
+NOTICES TEST
+====================================
+No General Notices Found
+
+
+====================================
+CLEANUP TMP FILES
+====================================
+
+====================================
+FINAL REPORT NOTICES
+====================================
+
+STEP-3 COMPLETE @ 06:23:25 - RUNTIME: 0.3267 sec. 
+
+
+====================================
+FINAL REPORT NOTICES LIST
+====================================
+-----------------------
+[INFO] No general notices
+	SECTIONS: general
+
+-----------------------
+[INFO] No errors in database
+	SECTIONS: database
+
+-----------------------
+[INFO] No search and replace data errors
+	SECTIONS: search_replace
+
+-----------------------
+[INFO] No files extraction errors
+	SECTIONS: files
+
+====================================
